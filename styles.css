@@ -31,3 +31,35 @@ header {
   font-family: BaseFont;
   src: url("./assets/fonts/OpenSans-VariableFont_wdth\,wght.ttf");
 }
+
+.d-flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.align-items-start {
+  align-items: start;
+}
+
+.align-items-end {
+  align-items: end;
+}
+
+.gap-4 {
+  gap: 16px;
+}
+
+.flex-grow-1 {
+  flex-grow: 1;
+}
