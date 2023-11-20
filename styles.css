@@ -60,6 +60,10 @@ header {
   gap: 16px;
 }
 
+.mt-4 {
+  margin-top: 16px;
+}
+
 .flex-grow-1 {
   flex-grow: 1;
 }
